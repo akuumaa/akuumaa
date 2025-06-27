@@ -45,6 +45,8 @@ I'm a curious **Computer Science student**, working as a **System Administrator*
 ![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-00979D?style=flat&logo=arduino&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF7139?style=flat&logo=burp-suite&logoColor=white)
 
 **Planning & Design Tools:**  
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
