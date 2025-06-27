@@ -42,6 +42,9 @@ I'm a curious **Computer Science student**, working as a **System Administrator*
 **IDEs:**  
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=flat&logo=jetbrains&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-00979D?style=flat&logo=arduino&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
 
 **Planning & Design Tools:**  
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
