@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://github.com/akuumaa.png" width="150" style="border-radius: 50%;" />
 </p>
 
