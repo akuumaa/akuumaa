@@ -39,13 +39,14 @@ I'm a curious **Computer Science student**, working as a **System Administrator*
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-**IDEs:**  
+**IDEs, Engines & Specialized Tools:**  
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=flat&logo=jetbrains&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-00979D?style=flat&logo=arduino&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
 ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
+![KNIME](https://img.shields.io/badge/-KNIME-FEBD00?style=flat&logo=knime&logoColor=black)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF7139?style=flat&logo=burp-suite&logoColor=white)
 
 **Planning & Design Tools:**  
