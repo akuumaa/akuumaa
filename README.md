@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/akuumaa.png" width="150" style="border-radius: 50%;" />
+</p>
+
 ### Hi there 👋
 
 Welcome to my GitHub profile — make yourself at home.
