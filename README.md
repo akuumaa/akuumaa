@@ -1,103 +1,69 @@
-### Hi there 👋
+# Hi there 👋
 
-Welcome to my GitHub profile — make yourself at home.
+Welcome to my GitHub profile.
 
----
-
-### 🧑‍💻 About Me
-I'm a curious **Computer Science student**, working as a **System Administrator** and **Developer**. In my free time, I enjoy building side projects and diving into different areas of tech just for the fun of it.
+I'm a **Master Computer Science student** working as a **System Administrator** and **Developer**.  
+I use GitHub to document my work, share projects, and present my experience through practical development and technical problem-solving.
 
 ---
 
-### 🛠️ Tech Stack
-**Languages:**  
+## About Me
+
+- 🎓 Master Computer Science student
+- 💼 Working as a System Administrator and Developer
+- 🛠️ Interested in practical solutions, clean implementations, and learning by doing
+- 🚀 Using GitHub as both a project space and portfolio
+
+---
+
+## Experience With
+
+Here are some technologies and tools I've worked with across projects, work, and personal learning.
+
+### Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
 
-**Frameworks & Tools:**  
+### Frameworks & Platforms
+![Angular](https://img.shields.io/badge/-Angular-0F0F11?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+### Styling & UI
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat&logo=vercel&logoColor=white)
 
-**Dev Tools & Quality:**  
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=black)
+### Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
-
-**CI/CD & API Tools:**  
 ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-**IDEs, Engines & Specialized Tools:**  
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=black)
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/-JetBrains-000000?style=flat&logo=jetbrains&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-00979D?style=flat&logo=arduino&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
-![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
-![KNIME](https://img.shields.io/badge/-KNIME-FEBD00?style=flat&logo=knime&logoColor=black)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF7139?style=flat&logo=burp-suite&logoColor=white)
-
-**Planning & Design Tools:**  
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=adobexd&logoColor=white)
-![Miro](https://img.shields.io/badge/-Miro-050038?style=flat&logo=miro&logoColor=white)
-![Lucidchart](https://img.shields.io/badge/-Lucidchart-FA7303?style=flat&logo=lucidchart&logoColor=white)
-![YouTrack](https://img.shields.io/badge/-YouTrack-000000?style=flat&logo=youtrack&logoColor=white)
-
-Always learning, always tinkering.
 
 ---
 
-### 🌱 Interests
-I'm excited about everything tech, but I have a growing passion for:
-- **Cybersecurity** 🛡️
-- **Game Development** 🎮
-- And just generally **learning new things** 🔍
+## Interests
+
+I'm especially interested in:
+
+- 🛡️ Cybersecurity
+- 🎮 Game Development
+- 🔍 Continuously learning and exploring new areas of IT
 
 ---
-<!--
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
-
-> ⚠️ Replace `your-github-username` with your actual GitHub username to activate the stats.
-
----
--
-### 🚧 Projects
-Coming soon... stay tuned!
-
----
--->
-Thanks for stopping by! 🚀
-
-Feel free to explore, star, or fork anything that interests you. Cheers!
-
-<!--
-**akuumaa/akuumaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always learning, always building.
