@@ -7,15 +7,6 @@ I use GitHub to document my work, share projects, and present my experience thro
 
 ---
 
-## About Me
-
-- 🎓 Master Computer Science student
-- 💼 Working as a System Administrator and Developer
-- 🛠️ Interested in practical solutions, clean implementations, and learning by doing
-- 🚀 Using GitHub as both a project space and portfolio
-
----
-
 ## Experience With
 
 Here are some technologies and tools I've worked with across projects, work, and personal learning.
@@ -56,14 +47,5 @@ Here are some technologies and tools I've worked with across projects, work, and
 
 ---
 
-## Interests
-
-I'm especially interested in:
-
-- 🛡️ Cybersecurity
-- 🎮 Game Development
-- 🔍 Continuously learning and exploring new areas of IT
-
----
 
 Always learning, always building.
